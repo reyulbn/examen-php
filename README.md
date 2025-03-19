@@ -1,6 +1,6 @@
 # examen-php - Ejercicio MVC
 
-Examen realizado en la asignatura "Desarrollo Web en Entorno Servidor (DWES)"<br>
+Examen realizado en el módulo Desarrollo Web en Entorno Servidor (DWES)<br>
 del Grado Superior en Desarrollo de Aplicaciones Web (DAW).
 
 Utilizando Modelo Vista Controlador.<br>
